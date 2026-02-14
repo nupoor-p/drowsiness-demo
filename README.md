@@ -1,2 +1,4 @@
 # drowsiness-demo
-This is a repo for drivers drowsiness detection 
+This repo is for drivers drowsiness detection project
+Author-Nupoor pandey
+
